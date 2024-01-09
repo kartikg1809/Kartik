@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">From India<br><br>Learning JaveScript and React Native<br><br>Former intern at HCL InfoTech (a subsidiary of HCL InfoSystems)<br>
+<h6 align="left">From India<br><br>Learning JaveScript and ReactJs<br><br>Former intern at HCL InfoTech (a subsidiary of HCL InfoSystems)<br>
 
 ###
 
