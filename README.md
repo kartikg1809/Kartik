@@ -63,6 +63,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikg1809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages%20Used%20the%20Most" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kartikg1809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikg1809&" alt="kartikg1809" /></p>
 </div>
-
-###
